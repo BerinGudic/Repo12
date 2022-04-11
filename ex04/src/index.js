@@ -21,4 +21,4 @@ function sumFibonacci(num) {
   console.log(sumFibonacci(20));
   console.log(sumFibonacci(4));
   console.log(sumFibonacci(-5));
-  module.export = sumFibonacci;
+  module.exports = sumFibonacci;
